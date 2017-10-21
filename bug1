@@ -1,0 +1,2 @@
+sometimes ansible hostvars collide with other variable namespaces... and this causes problems so let's just not use hostvars
+modify usage examples involving hostvars
